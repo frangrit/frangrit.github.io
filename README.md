@@ -2,8 +2,7 @@
 
 # Frances Duncan
 
-frances@francesduncan.com
-
+frances@francesduncan.com  
 Portland, OR
 
 👋 Hello. I’m a cross-disciplinary strategist and producer for internet projects.
