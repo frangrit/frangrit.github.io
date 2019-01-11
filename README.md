@@ -7,8 +7,8 @@ Portland, OR
 
 👋 Hello. I’m a cross-disciplinary strategist and producer for internet projects.
 
-- **👍** getting shit done without being a jerk about it; methodical analysis; realism; saying no; small commits; writing
-- **👎** artifact-driven project management; extemporizing; long hours; schmoozing; SEO
+- **👍** — getting shit done without being a jerk about it; methodical analysis; realism; saying no; small commits; writing
+- **👎** — artifact-driven project management; extemporizing; long hours; schmoozing; SEO
 
 ## Experience
 
