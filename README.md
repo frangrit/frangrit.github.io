@@ -7,7 +7,7 @@ Portland, OR
 
 👋 Hello. I’m a cross-disciplinary strategist and producer for internet projects.
 
-- **Good at:** getting shit done without being a jerk about it; methodical analysis; realism; saying no; thinking; writing
+- **Good at:** getting shit done without being a jerk about it; methodical analysis; realism; saying no; small commits; thinking; writing
 - **Not good at:** artifact-driven project management; extemporizing; long hours; schmoozing; SEO
 
 ## Experience
@@ -57,5 +57,9 @@ Portland, OR
 
 ## Education
 BA, Writing — Sarah Lawrence College, Bronxville, NY
+
+
+📓
+
 
 My first online handle, in the mid-nineties, was `frangrit`. _Grit_ was the name of a zine I wrote at the time.
