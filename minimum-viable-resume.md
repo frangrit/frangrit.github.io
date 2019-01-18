@@ -9,8 +9,6 @@ Portland, OR
 2016-2019
 
 **Freelance strategist and producer**  
-New York, NY  
-North Adams, MA  
 2006-2016
 
 **Adjunct instructor**  
