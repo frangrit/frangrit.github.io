@@ -22,4 +22,6 @@ Portland, OR
 - SEO
 
 
-📓
+📓  
+
+[Here’s my resume.](resume.md)
