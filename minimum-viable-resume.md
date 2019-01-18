@@ -2,6 +2,7 @@ Frances Duncan
 [frances@francesduncan.com](mailto:frances@francesduncan.com)  
 Portland, OR
 
+# ✨
 
 **Strategist**  
 [Rumors](http://rumo.rs)  
