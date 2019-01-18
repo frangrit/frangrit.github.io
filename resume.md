@@ -5,7 +5,7 @@ Portland, OR
 
 **Strategist**  
 [Rumors](http://rumo.rs)  
-Portland, OR
+Portland, OR  
 2016-2019
 
 **Freelance strategist and producer**  
@@ -29,6 +29,6 @@ New York, NY
 2000-2001  
   
 
-BA, Writing
-Sarah Lawrence College
+BA, Writing  
+Sarah Lawrence College  
 Bronxville, NY	
