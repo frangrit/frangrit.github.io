@@ -1,9 +1,7 @@
-
-
-## Frances Duncan
-
+**Frances Duncan**  
 frances@francesduncan.com  
-Portland, OR
+[francesduncan.com](http://francesduncan.com)  
+Portland, OR  
 
 👋 I’m a cross-disciplinary strategist and producer for internet projects. Currently at [Rumors](http://rumo.rs).
 

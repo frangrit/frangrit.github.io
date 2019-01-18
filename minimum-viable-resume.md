@@ -1,6 +1,7 @@
-Frances Duncan  
-[frances@francesduncan.com](mailto:frances@francesduncan.com)  
-Portland, OR
+**Frances Duncan**  
+frances@francesduncan.com  
+[francesduncan.com](http://francesduncan.com)  
+Portland, OR  
 
 ✨
 
