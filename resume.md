@@ -1,5 +1,3 @@
-## Experience
-
 ### 2016-Now
 **Strategist and producer** — Rumors, Portland, OR
 - Work closely with studio principal
