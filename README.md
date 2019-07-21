@@ -3,7 +3,7 @@ frances@francesduncan.com
 [francesduncan.com](http://francesduncan.com)  
 Portland, OR  
 
-👋 I’m a cross-disciplinary strategist and producer for internet projects. Currently at [Rumors](http://rumo.rs).
+👋 I’m a cross-disciplinary strategist and producer for internet projects.
 
 **👍 Good at**
 - Getting shit done without being a jerk about it
@@ -17,7 +17,6 @@ Portland, OR
 - Extemporizing
 - Long hours
 - Schmoozing
-- SEO
  
 
 📓 [Here’s my resume.](minimum-viable-resume.md)
