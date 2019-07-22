@@ -1,6 +1,6 @@
 ---
 class: index
-title: 📓🍜😬
+title: Frances Duncan is a digital strategist
 ---
 
 # 👋
