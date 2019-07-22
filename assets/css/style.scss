@@ -212,7 +212,11 @@ b, strong {
 }
 
 .links {
+	margin-top: units(2);
+
 	li {
-	 	border-top: none;
+		border-top: none;
+		margin-top: 0;
+		padding-top: 0;
 	}
 }
