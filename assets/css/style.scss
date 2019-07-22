@@ -176,7 +176,7 @@ a {
 	border-bottom: 2px solid $color-primary;
 	color: $ink;
 	display: inline-block;
-	margin-bottom: -2px;
+	line-height: 1.4;
 
 	&:hover {
 		border-color: $color-primary-dark;
