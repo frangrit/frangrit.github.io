@@ -29,7 +29,7 @@ Before all this, I worked in tandem with our designer to create empathy maps and
 
 {:.info}
 - **Client:** Ace Hotel Group
-- **Services:** UX research, content strategy, information architecture, UX design, writing
+- **Services:** UX research, content strategy, information architecture, UX design, writing, project management
 - **With:** Rumors
 - **When:** 2018
 
