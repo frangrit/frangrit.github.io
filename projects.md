@@ -64,7 +64,7 @@ Folio is the web-based CMS and fulfillment software used by Verso Books, the lar
 
 ## ⚖️ H2O
 
-H2O is a platform for creating, sharing, and remixing open course materials, created by the Library Innovation Lab (LIL) at the Harvard Law School. The goal of this project was to create a static prototype demonstrating a compelling vision of H2O. How might it best serve students and professors of law? Which elements are used most? What functionalities might we introduce or remove to enhance the user experience?
+H2O is a platform for creating, sharing, and remixing open course materials, created by the [Library Innovation Lab](https://lil.law.harvard.edu/) (LIL) at the Harvard Law School. The goal of this project was to create a static prototype demonstrating a compelling vision of H2O. How might it best serve students and professors of law? Which elements are used most? What functionalities might we introduce or remove to enhance the user experience?
 
 I audited the software from a UX perspective, and conducted interviews with professors, students, and the engineers maintaining the software. LIL provided their own detailed user feedback, too. Analysis led me to arrive at solutions from two angles: creation and consumption. The users creating casebooks were an entirely different kind, with different technical facilities, than the ones reading and studying the casebooks.
 
