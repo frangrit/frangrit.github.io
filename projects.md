@@ -29,17 +29,19 @@ Before all this, I worked in tandem with our designer to create empathy maps and
 
 {:.info}
 - **Client:** Ace Hotel Group
-- **Services:** UX research, content strategy, information architecture, UX design, writing
+- **Services:** UX research, content strategy, information architecture, UX design, writing, project management
 - **With:** Rumors
 - **When:** 2018
 
 ## 💣 BOMB
 
-While at Rumors, I served as lead strategist on a website redesign for BOMB, a 30-year-old arts magazine based in New York. BOMB's new site strategy was focused on three goals: to facilitate lateral browsing, discovery, and research; to expand readership; and as much as possible, to future-proof content and technology. To that end, I proposed a full content restructure, focusing on structured content, standardized taxonomies and language, and content relationships that flattened the site hierarchy. The back-end content model served editorial purposes and made it easier for administrators to create platform agnostic structured content. On the front-end, navigable category types (based on subject medium and article format) acted in service of the content, subtly framing BOMB’s articles and providing high-level context to website visitors. Working with the digital editor, I created a controlled vocabulary for tags to better surface archival content, and supplied new tools in the CMS to allow for editorial groupings outside the standard print magazine and online-only hierarchies.
+While at Rumors, I served as lead strategist on a website redesign for BOMB, a 30-year-old arts magazine based in New York. The content strategy I proposed would provide a scalable structure and navigational model that prioritized content resources and support growth and cross-platform compatibility; encourage lateral and associative movement and create moments of discovery by connecting formerly siloed channels; and help visitors understand BOMB’s projects and history without a lot of labor.
+
+We completely restructured BOMB's content, focusing standardized taxonomies and language, and content relationships that flattened old hierarchies. The back-end content model made it easier for administrators to create platform agnostic structured content. On the front-end, navigable category types (based on subject medium and article format) acted in service of the content, subtly framing BOMB’s articles and providing high-level context to website visitors. Working with the digital editor, I created a controlled vocabulary for tags to better surface archival articles, and supplied new tools in the CMS to allow for editorial groupings outside the standard print magazine and online-only divide.
 
 {:.links}
 - [bombmagazine.org](https://bombmagazine.org/) →
-- [Strategy brief (PDF)](assets/docs/20170404-BOMB-strategy-brief.pdf) →
+- [Content strategy brief](https://paper.dropbox.com/doc/Content-strategy--AhY19pp40haUKrom6nlowcXwAQ-HjwK4KUsHgMm2tPOE3NqP) →
 
 {:.info}
 - **Client:** BOMB magazine
@@ -49,10 +51,10 @@ While at Rumors, I served as lead strategist on a website redesign for BOMB, a 3
 
 ## 📕 Folio
 
-Performed a rigorous audit of [Verso](https://www.versobooks.com/)'s web-based CMS and fulfillment software; evaluated shortcomings and suggested improvements in an exhaustive document with interactive wireframes; conducted user interviews with editorial, engineering, and executive staff to assess pain points and desired improvements
+Folio is the web-based CMS and fulfillment software used by Verso Books, the largest independent, radical publishing house in the English-speaking world. Early in my tenure at Rumors, I performed a rigorous audit and analysis of the software, evaluating shortcomings and suggesting improvements in an exhaustive document and interactive wireframes. I also conducted user interviews with editorial, engineering, and executive staff to assess pain points and discover desired improvements.
 
-- Wireframes
-- Audit
+{:.links}
+- [Folio audit](https://docs.google.com/document/d/1SNQWDT7s6dsCLBnqwh05jWfGdvxICEtC8PD6Iymk6sA/edit?usp=sharing) →
 
 {:.info}
 - **Client:** Verso Books
