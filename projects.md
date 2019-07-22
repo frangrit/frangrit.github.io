@@ -51,7 +51,7 @@ We completely restructured BOMB's content, standardizing taxonomies and language
 
 ## 📕 Folio
 
-Folio is the web-based CMS and fulfillment software used by Verso Books, the largest independent, radical publishing house in the English-speaking world. Early in my tenure at Rumors, I performed a rigorous audit and analysis of the software, evaluating shortcomings and suggesting improvements in an exhaustive document and interactive wireframes. I also conducted user interviews with editorial, engineering, and executive staff to assess pain points and discover desired improvements.
+Folio is the web-based CMS and fulfillment software used by Verso Books, the largest radical publishing house in the English-speaking world. Early in my tenure at Rumors, I performed a rigorous audit and analysis of the software, evaluating shortcomings and suggesting improvements in an exhaustive document along with interactive wireframes. I also conducted user interviews with editorial, engineering, and executive staff to assess pain points and discover desired improvements.
 
 {:.links}
 - [Folio audit](https://docs.google.com/document/d/1SNQWDT7s6dsCLBnqwh05jWfGdvxICEtC8PD6Iymk6sA/edit?usp=sharing) →
@@ -64,9 +64,9 @@ Folio is the web-based CMS and fulfillment software used by Verso Books, the lar
 
 ## ⚖️ H2O
 
-H2O is a platform for creating, sharing, and remixing open course materials, created by the [Library Innovation Lab](https://lil.law.harvard.edu/) (LIL) at the Harvard Law School. The goal of this project was to create a static prototype demonstrating a compelling vision of H2O. How might it best serve students and professors of law? Which elements are used most? What functionalities might we introduce or remove to enhance the user experience?
+H2O is a platform for creating, sharing, and remixing open course materials, created by the [Library Innovation Lab](https://lil.law.harvard.edu/) (LIL) at Harvard Law School. The goal of this project was to create a static prototype demonstrating a compelling vision of H2O. How might it best serve students and professors of law? Which elements are used most? What functionalities might we introduce or remove to enhance the user experience?
 
-I audited the software from a UX perspective, and conducted interviews with professors, students, and the engineers maintaining the software. LIL provided their own detailed user feedback, too. Analysis led me to arrive at solutions from two angles: creation and consumption. The users creating casebooks were an entirely different kind, with different technical facilities, than the ones reading and studying the casebooks.
+I audited the software from a UX perspective, and conducted interviews with professors, students, and the engineers maintaining the software. I arrived at solutions from two angles: creation and consumption. The users creating casebooks were an entirely different kind, with different technical facilities, than the ones reading and studying the casebooks.
 
 We encouraged the LIL team to to embrace the fundamental experience of the casebook, to focus on the experience of reading and the art of getting out of the way. We streamlined the UI language, moving away from the somewhat outdated "playlist" metaphor in favor of direct, plain language and conceptual consistency. Clear language guides the user toward the goal of the software -- to create and adapt casebooks for use in the classroom.
 
@@ -89,7 +89,7 @@ Designer [Dan O. Williams](https://thisisdano.github.io) (he's also my husband) 
 
 Workshops and discussions with LIL yielded a complete overhaul of the site’s content strategy, presenting keyword search as the primary site action, and introducing the idea of editorialized “approaches” to the collection, inviting exploration and discovery by surfacing popular searches, like a defendant or prosecutor’s name, or trial keywords and topics, like *euthanasia* or *war crimes*.
 
-I created a suite of wireframes with increasing levels of fidelity, before building a static prototype using Sketch and InVision. Along with the prototype, I also provided a series of support documentation for the site’s strategy and design beyond the prototype phase: a creative brief to help guide further design direction; a style guide covering specific site design choices and interface elements that effectively and appropriately convey information about the depth and complexity of the trials; and a content strategy brief and extensive revisions to the site’s existing text.
+I created wireframes with increasing levels of fidelity before building a static prototype using Sketch and InVision. Along with the prototype, I also provided support documentation for the site’s strategy and design beyond the prototype phase and extensive text edits.
 
 {:.links}
 - [nuremberg.law.harvard.edu](http://nuremberg.law.harvard.edu/) →
@@ -101,11 +101,11 @@ I created a suite of wireframes with increasing levels of fidelity, before build
 
 ## 📊 “Alive and Well”
 
-Williams College was creating a new environmental center that aimed to achieve Living Building certification. The college wanted to gather data on the building’s energy use and communicate that data in a dynamic and compelling way to the building’s occupants and other people and institutions. But how? Williams invited me to consult on the design process for this yet-to-be-created tool. My goal was to help determine the project audience and recommend potential solutions. Who is interested in this building’s energy use? How might they engage with this information? How could we foster meaningful, interactive experiences?
+Williams College wanted to gather data on a campus building’s energy use and communicate that data in a dynamic and compelling way to the building’s occupants and other people and institutions. But how? Williams invited me to consult on the design process for this yet-to-be-created tool. My goal was to help determine the project audience and recommend potential solutions. Who is interested in this building’s energy use? How might they engage with this information? How could we foster meaningful, interactive experiences?
 
 Over the course of two months, I worked with project stakeholders and potential users, including faculty, staff, students, and members of the community, to understand the project context and articulate and prioritize specific project goals. I facilitated two one-hour meetings with the stakeholder team and conducted over twenty hourlong exploratory interviews with potential users across a targeted cross-section of of the Williams community.
 
-Throughout the design research process, the team referred to the outcome of the project as “the tool.” During the course of our meetings and interviews, it quickly became clear that the tool wasn’t any one thing, but a number of interrelated technologies and approaches. At the end of the project, I delivered a report synthesizing and outlining what we worked together to create — describing the specific project goals, audiences, and potential features — and a recommended path forward that was sensitive to the college’s time and resources.
+Throughout the design research process, the team referred to the outcome of the project as “the tool.” During our meetings and interviews, it became clear that the tool wasn’t any one thing, but a number of interrelated technologies and approaches. At the end of the project, I delivered a report synthesizing and outlining what we worked together to create — describing the specific project goals, audiences, and potential features — and a recommended path forward that was sensitive to the college’s time and resources.
 
 {:.links}
 - [“Alive and Well” report (PDF)](assets/docs/alive-and-well-kellogg.pdf) →
