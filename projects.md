@@ -64,8 +64,8 @@ Performed a rigorous audit of [Verso](https://www.versobooks.com/)'s web-based C
 [H2O](https://opencasebook.org/) is a platform for creating, sharing, and remixing open course materials, created by the [Library Innovation Lab](https://lil.law.harvard.edu/) (LIL) at the Harvard Law School. The goal of this project was to create a static prototype demonstrating a compelling vision of H2O. How might it best serve students and professors of law? Which elements are used most? What functionalities might we introduce or remove to enhance the user experience? I started with an audit the software from a UX perspective. But I wasn't the core user -- so I also conduced interviews with professors, students, and the engineers maintaining the software; LIL provided their own detailed user feedback for analysis. Working closely with with designer Dan O. Williams (he's also my husband), I came at solutions from two angles: creation and consumption. The users creating casebooks were an entirely different kind, with different technical facilities, than the ones reading and studying the casebooks. We created a suite of prototype wireframes, plus fully designed screens for several key components, flows, and actions. Along with these design files, we delivered a project brief covering design principles, attributes, and an overall strategy for framing solutions.
 
 {:.links}
-- [H2O](https://opencasebook.org/)
-- [Project brief](https://docs.google.com/document/d/1IoW40ToF59Mmlabk_rdaAC0kpwdYTRQ38Esv4lzJRWI/edit?usp=sharing)
+- [H2O](https://opencasebook.org/) →
+- [Project brief](https://docs.google.com/document/d/1IoW40ToF59Mmlabk_rdaAC0kpwdYTRQ38Esv4lzJRWI/edit?usp=sharing) →
 
 {:.info}
 - **Client:** Harvard Law School - Library Innovation Lab, Cambridge, MA
