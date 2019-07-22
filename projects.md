@@ -18,9 +18,9 @@ I worked for three years at [Rumors](http://rumo.rs), a small interdisciplinary 
 
 ## 🔵 Sister City
 
-The Ace hotels team contracted Rumors to develop a web-based tool for their new "lean luxe" hotel in New York City. Working closely with Ace engineers, we built a platform that connects multiple hospitality software services behind the facade of an elegantly simple website. We provided content strategy, UX design, front-end, back-end, and API design services. It was a complex piece of software, with a deep set of features: a hotel room availability calendar matrix, user accounts, a service requests dashboard, reservation management, and the usual photo galleries and text content. (This somehow makes it sound simpler than it was!)
+The Ace hotels team contracted Rumors to develop a web-based tool for their new "lean luxe" hotel in New York City. Working closely with Ace engineers, we built a platform that connects multiple hospitality software services behind the facade of an elegantly simple website. We provided content strategy, UX design, front-end, back-end, and API design services. It was a complex piece of software, with a deep set of features: a hotel room availability calendar matrix, user accounts, a service requests dashboard, reservation management, and the usual photo galleries and text content. (Somehow this makes it sound simpler than it was!)
 
-One the many challenges of the project was how to account for publishing and editing site content. The slim budget left no room for a CMS, but there was plenty of content to manage. We needed a simple way for the relatively non-technical Ace writers to update words that a website user would encounter -- the brand had a very clear voice, and the wrong word could ruin a customer's experience. I collaborated with the API engineer, back-end developer, and designer to create a solution: the site's administrators could edit most text in a Markdown or YAML file in a GitHub repository, and our Vue-based system would grab the content as needed. I also provided training and a [content guide](https://paper.dropbox.com/doc/Website-content-guide-Sister-City--Aha1~AnMeVAhKFLkVFFhomVvAg-xQEXYYZKVgvRa0oiVgdxp) to help orient new editors.
+One the many challenges of the project was how to account for publishing and editing site content. The slim budget left no room for a CMS, but there was plenty of content to manage. We needed a simple way for the relatively non-technical Ace writers to update words that a website user would encounter -- the brand had a very clear voice, and the wrong word could ruin a customer's experience. I collaborated with the API engineer, back-end developer, and designer to create a solution: the site's administrators edit most text in a Markdown or YAML file in a GitHub repository, and our Vue-based system grabs the content as needed. I also provided training and a [content guide](https://paper.dropbox.com/doc/Website-content-guide-Sister-City--Aha1~AnMeVAhKFLkVFFhomVvAg-xQEXYYZKVgvRa0oiVgdxp) to help orient new editors.
 
 Before all this, I worked in tandem with our designer to create empathy maps and personas, which we used to guide content strategy, feature development, and UX design.
 
@@ -29,16 +29,20 @@ Before all this, I worked in tandem with our designer to create empathy maps and
 
 {:.info}
 - **Client:** Ace Hotel Group
-- **Services:** UX research, content strategy, information architecture, UX design, writing
+- **Services:** UX research, content strategy, information architecture, UX design, writing, project management
 - **With:** Rumors
 - **When:** 2018
 
 ## 💣 BOMB
 
-Developed category taxonomies to undergird navigation and wayfinding for website of 30-year-old arts magazine; working with digital editor, created controlled vocabulary for tags to better surface related archival content
+While at Rumors, I served as lead strategist on a website redesign for BOMB, a 30-year-old arts magazine based in New York. BOMB's new site strategy was focused on three goals: to facilitate lateral browsing, discovery, and research; to expand readership; and as much as possible, to future-proof content and technology. To that end, I proposed a full content restructure, focusing on standardizing taxonomies and language and creating relationships that flattened the hierarchy. On the back-end, I organized content into broad organizational buckets that reflected their content elements, like Article, Event, Issue, and Page. On the front-end, category types (based on medium and format) acted in service of the content, subtly framing BOMB’s articles and providing high-level context to website visitors.
+
+
+eveloped category taxonomies to undergird navigation and wayfinding for website of 30-year-old arts magazine; working with digital editor, created controlled vocabulary for tags to better surface related archival content
 
 {:.links}
 - [bombmagazine.org](https://bombmagazine.org/) →
+- [Strategy brief (PDF)](assets/docs/20170404-BOMB-strategy-brief.pdf)
 
 {:.info}
 - **Client:** BOMB magazine
@@ -55,21 +59,28 @@ Performed a rigorous audit of Verso's web-based CMS and fulfillment software; ev
 
 {:.info}
 **Client:** Verso Books
-**Services:** UX research, information architecture, UX design
+**Services:** UX research, information architecture, UX design, project management
 **With:** Rumors
 **When:** 2016
 
 ## ⚖️ H2O
 
-H2O is a platform for creating, sharing, and remixing open course materials, created by the Library Innovation Lab (LIL) at the Harvard Law School. The goal of this project was to create a static prototype demonstrating a compelling vision of H2O. How might it best serve students and professors of law? Which elements are used most? What functionalities might we introduce or remove to enhance the user experience? I started with an audit the software from a UX perspective. But I wasn't the core user -- so I also conduced interviews with professors, students, and the engineers maintaining the software; LIL provided their own detailed user feedback for analysis. Working closely with with designer Dan O. Williams (he's also my husband), I came at solutions from two angles: creation and consumption. The users creating casebooks were an entirely different kind, with different technical facilities, than the ones reading and studying the casebooks. We created a suite of prototype wireframes, plus fully designed screens for several key components, flows, and actions. Along with these design files, we delivered a project brief covering design principles, attributes, and an overall strategy for framing solutions.
+H2O is a platform for creating, sharing, and remixing open course materials, created by the Library Innovation Lab (LIL) at the Harvard Law School. The goal of this project was to create a static prototype demonstrating a compelling vision of H2O. How might it best serve students and professors of law? Which elements are used most? What functionalities might we introduce or remove to enhance the user experience? 
+
+I audited the software from a UX perspective, and conducted interviews with professors, students, and the engineers maintaining the software. LIL provided their own detailed user feedback, too. Analysis led me to arrive at solutions from two angles: creation and consumption. The users creating casebooks were an entirely different kind, with different technical facilities, than the ones reading and studying the casebooks. 
+
+We encouraged the LIL team to to embrace the fundamental experience of the casebook, to focus on the experience of reading and the art of getting out of the way. We streamlined the UI language, moving away from the somewhat outdated "playlist" metaphor in favor of direct, plain language and conceptual consistency. Clear language guides the user toward the goal of the software -- to create and adapt casebooks for use in the classroom.
+
+Designer Dan O. Williams (he's also my husband) and I worked together to create prototype wireframes and fully designed screens for several key components, flows, and actions. Along with these design files, we delivered a project brief covering design principles, attributes, and an overall strategy for framing solutions. 
 
 {:.links}
-- [H2O](https://opencasebook.org/)
+- [Prototype](https://invis.io/9J7JQ1WV2)
 - [Project brief](https://docs.google.com/document/d/1IoW40ToF59Mmlabk_rdaAC0kpwdYTRQ38Esv4lzJRWI/edit?usp=sharing)
+- [H2O](https://opencasebook.org/)
 
 {:.info}
 **Client:** Harvard Law School - Library Innovation Lab, Cambridge, MA
-**Services:** UX research, content strategy, information architecture, UX design
+**Services:** UX research, content strategy, information architecture, UX design, project management
 **With:** [Dan O. Williams](https://thisisdano.github.io/), creative direction and visual design
 **When:** 2015
 
@@ -79,16 +90,16 @@ LIL’s Nuremberg Project is an initiative to provide open access to the Library
 
 Workshops and discussions with LIL yielded a complete overhaul of the site’s content strategy, presenting keyword search as the primary site action, and introducing the idea of editorialized “approaches” to the collection, inviting exploration and discovery by surfacing popular searches, like a defendant or prosecutor’s name, or trial keywords and topics, like *euthanasia* or *war crimes*.
 
-I created a suite of wireframes with increasing levels of fidelity, before building a static prototype using Sketch and InVision. Along with the prototype, I also provided a series of support documentation for the site’s strategy and design beyond the prototype phase: a creative brief to help guide further design direction; a style guide covering specific site design choices and interface elements that effectively and appropriately convey information about the depth and complexity of the trials; and a content strategy brief and extensive revisions to the site’s existing text.
+I created wireframes with increasing levels of fidelity, before building a static prototype using Sketch and InVision. Along with the prototype, I provided support documentation for the site’s strategy and design beyond the prototype phase: a creative brief to help guide further design direction; a style guide covering specific site design choices, and interface elements that effectively and appropriately convey information about the depth and complexity of the trials; and a content strategy brief and extensive revisions to the site’s existing text. 
 
-The visual tone was inspired by a visit to the small New England Holocaust Memorial park in downtown Boston. One of the typefaces I used is called Proof -- its name seemed apt for a collection of documents about events that continue to require vigilant remembrance.
+One of the typefaces I used is called Proof -- its name seemed apt for a collection of documents about events that continue to require vigilant remembrance.
 
 {:.links}
 - [nuremberg.law.harvard.edu/](https://nuremberg.law.harvard.edu/) →
 
 {:.info}
 **Client:** Harvard Law School - Library Innovation Lab, Cambridge, MA
-**Services:** creative direction, content strategy, information architecture, UX design, UI design, writing
+**Services:** creative direction, content strategy, information architecture, UX design, UI design, writing, project management
 **When:** 2015
 
 ## 📊 “Alive and Well”
