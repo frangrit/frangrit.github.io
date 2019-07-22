@@ -62,11 +62,18 @@ Performed a rigorous audit of [Verso](https://www.versobooks.com/)'s web-based C
 
 ## ⚖️ H2O
 
-[H2O](https://opencasebook.org/) is a platform for creating, sharing, and remixing open course materials, created by the [Library Innovation Lab](https://lil.law.harvard.edu/) (LIL) at the Harvard Law School. The goal of this project was to create a static prototype demonstrating a compelling vision of H2O. How might it best serve students and professors of law? Which elements are used most? What functionalities might we introduce or remove to enhance the user experience? I started with an audit the software from a UX perspective. But I wasn't the core user -- so I also conduced interviews with professors, students, and the engineers maintaining the software; LIL provided their own detailed user feedback for analysis. Working closely with with designer [Dan O. Williams](https://thisisdano.github.io/) (he's also my husband), I came at solutions from two angles: creation and consumption. The users creating casebooks were an entirely different kind, with different technical facilities, than the ones reading and studying the casebooks. We created a suite of prototype wireframes, plus fully designed screens for several key components, flows, and actions. Along with these design files, we delivered a project brief covering design principles, attributes, and an overall strategy for framing solutions.
+H2O is a platform for creating, sharing, and remixing open course materials, created by the Library Innovation Lab (LIL) at the Harvard Law School. The goal of this project was to create a static prototype demonstrating a compelling vision of H2O. How might it best serve students and professors of law? Which elements are used most? What functionalities might we introduce or remove to enhance the user experience? 
+
+I audited the software from a UX perspective, and conducted interviews with professors, students, and the engineers maintaining the software. LIL provided their own detailed user feedback, too. Analysis led me to arrive at solutions from two angles: creation and consumption. The users creating casebooks were an entirely different kind, with different technical facilities, than the ones reading and studying the casebooks. 
+
+We encouraged the LIL team to to embrace the fundamental experience of the casebook, to focus on the experience of reading and the art of getting out of the way. We streamlined the UI language, moving away from the somewhat outdated "playlist" metaphor in favor of direct, plain language and conceptual consistency. Clear language guides the user toward the goal of the software -- to create and adapt casebooks for use in the classroom.
+
+Designer [Dan O. Williams](https://thisisdano.github.io) (he's also my husband) and I worked together to create prototype wireframes and fully designed screens for several key components, flows, and actions. Along with these design files, we delivered a project brief covering design principles, attributes, and an overall strategy for framing solutions. 
 
 {:.links}
-- [H2O](https://opencasebook.org/) →
-- [Project brief](https://docs.google.com/document/d/1IoW40ToF59Mmlabk_rdaAC0kpwdYTRQ38Esv4lzJRWI/edit?usp=sharing) →
+- [Prototype](https://invis.io/9J7JQ1WV2)
+- [Project brief](https://docs.google.com/document/d/1IoW40ToF59Mmlabk_rdaAC0kpwdYTRQ38Esv4lzJRWI/edit?usp=sharing)
+- [H2O](https://opencasebook.org/)
 
 {:.info}
 - **Client:** Harvard Law School - Library Innovation Lab, Cambridge, MA
