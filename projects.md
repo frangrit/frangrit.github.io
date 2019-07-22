@@ -75,7 +75,7 @@ Performed a rigorous audit of [Verso](https://www.versobooks.com/)'s web-based C
 
 ## 📜 The Nuremberg Project
 
-[LIL](https://lil.law.harvard.edu/)’s [Nuremberg Project](https://nuremberg.law.harvard.edu/) is an initiative to provide open access to the Library’s complete set of Nuremberg documents and information about the trials. The goal of this project was to represent the full spectrum of the collection — over a million pages — and relate the transcripts and documents in an engaging, accessible way for scholars and an intelligent public audience. The prototype I created provides better transcript and document navigation and a simplified, robust search. It grants users access to documents in a coherent way, with a model for location and discovery, and showcases the collection — its extent, scope, and importance to world heritage. It is also meant to attract donations for its further development.
+[LIL](https://lil.law.harvard.edu/)’s [Nuremberg Project](http://nuremberg.law.harvard.edu/) is an initiative to provide open access to the Library’s complete set of Nuremberg documents and information about the trials. The goal of this project was to represent the full spectrum of the collection — over a million pages — and relate the transcripts and documents in an engaging, accessible way for scholars and an intelligent public audience. The prototype I created provides better transcript and document navigation and a simplified, robust search. It grants users access to documents in a coherent way, with a model for location and discovery, and showcases the collection — its extent, scope, and importance to world heritage. It is also meant to attract donations for its further development.
 
 Workshops and discussions with LIL yielded a complete overhaul of the site’s content strategy, presenting keyword search as the primary site action, and introducing the idea of editorialized “approaches” to the collection, inviting exploration and discovery by surfacing popular searches, like a defendant or prosecutor’s name, or trial keywords and topics, like *euthanasia* or *war crimes*.
 
@@ -84,7 +84,7 @@ I created a suite of wireframes with increasing levels of fidelity, before build
 The visual tone was inspired by a visit to the small New England Holocaust Memorial park in downtown Boston. One of the typefaces I used is called Proof -- its name seemed apt for a collection of documents about events that continue to require vigilant remembrance.
 
 {:.links}
-- [nuremberg.law.harvard.edu](https://nuremberg.law.harvard.edu/) →
+- [nuremberg.law.harvard.edu](http://nuremberg.law.harvard.edu/) →
 
 {:.info}
 - **Client:** Harvard Law School - Library Innovation Lab, Cambridge, MA
