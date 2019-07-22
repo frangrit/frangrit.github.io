@@ -101,11 +101,7 @@ I created wireframes with increasing levels of fidelity before building a static
 
 ## 📊 “Alive and Well”
 
-<<<<<<< HEAD
-Williams College wanted to gather data on a campus building’s energy use and communicate that data in a dynamic and compelling way to the building’s occupants and other people and institutions. But how? Williams invited me to consult on the design process for this yet-to-be-created tool. My goal was to help determine the project audience and recommend potential solutions. Who is interested in this building’s energy use? How might they engage with this information? How could we foster meaningful, interactive experiences?
-=======
-[Williams College](https://www.williams.edu/) was creating a new environmental center that aimed to achieve [Living Building certification](https://living-future.org/lbc/). The college wanted to gather data on the building’s energy use and communicate that data in a dynamic and compelling way to the building’s occupants and other people and institutions. But how? Williams invited me to consult on the design process for this yet-to-be-created tool. My goal was to help determine the project audience and recommend potential solutions. Who is interested in this building’s energy use? How might they engage with this information? How could we foster meaningful, interactive experiences?
->>>>>>> 2e811a9148498aaea8b846785307a0928cfeea02
+[Williams College](https://www.williams.edu/) wanted to gather data on a campus building’s energy use and communicate that data in a dynamic and compelling way to the building’s occupants and other people and institutions. But how? Williams invited me to consult on the design process for this yet-to-be-created tool. My goal was to help determine the project audience and recommend potential solutions. Who is interested in this building’s energy use? How might they engage with this information? How could we foster meaningful, interactive experiences?
 
 Over the course of two months, I worked with project stakeholders and potential users, including faculty, staff, students, and members of the community, to understand the project context and articulate and prioritize specific project goals. I facilitated two one-hour meetings with the stakeholder team and conducted over twenty hourlong exploratory interviews with potential users across a targeted cross-section of of the Williams community.
 
