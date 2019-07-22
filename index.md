@@ -1,6 +1,6 @@
 ---
 class: index
-title: Frances Duncan is a digital strategist
+title: 🍕📓😬 
 ---
 
 # 👋
@@ -20,6 +20,9 @@ After several years in the fuzzy green mountains of western Massachusetts, I rel
 - Irreverance
 - Methodical analysis
 - Small commits
+- Delightful microcopy
+- Asking questions
+- Applying rules with nuance
 - Writing
 
 ## 👎
@@ -27,3 +30,7 @@ After several years in the fuzzy green mountains of western Massachusetts, I rel
 - Extemporizing
 - Long hours
 - Schmoozing
+- Crunching numbers
+
+{:.links}
+- [Selected projects](projects) →
