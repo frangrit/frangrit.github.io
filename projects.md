@@ -35,17 +35,11 @@ Before all this, I worked in tandem with our designer to create empathy maps and
 
 ## 💣 BOMB
 
-While at Rumors, I served as lead strategist on a website redesign for BOMB, a 30-year-old arts magazine based in New York. BOMB's new site strategy was focused on three goals: to facilitate lateral browsing, discovery, and research; to expand readership; and as much as possible, to future-proof content and technology. To that end, I proposed a full content restructure, focusing on standardizing taxonomies and language and creating relationships that flattened the hierarchy. On the back-end, I organized content into broad organizational buckets that reflected their content elements, like Article, Event, Issue, and Page. On the front-end, category types (based on medium and format) acted in service of the content, subtly framing BOMB’s articles and providing high-level context to website visitors.
-
-
-eveloped category taxonomies to undergird navigation and wayfinding for website of 30-year-old arts magazine; working with digital editor, created controlled vocabulary for tags to better surface related archival content
+While at Rumors, I served as lead strategist on a website redesign for BOMB, a 30-year-old arts magazine based in New York. BOMB's new site strategy was focused on three goals: to facilitate lateral browsing, discovery, and research; to expand readership; and as much as possible, to future-proof content and technology. To that end, I proposed a full content restructure, focusing on structured content, standardized taxonomies and language, and content relationships that flattened the site hierarchy. The back-end content model served editorial purposes and made it easier for administrators to create platform agnostic structured content. On the front-end, navigable category types (based on subject medium and article format) acted in service of the content, subtly framing BOMB’s articles and providing high-level context to website visitors. Working with the digital editor, I created a controlled vocabulary for tags to better surface archival content, and supplied new tools in the CMS to allow for editorial groupings outside the standard print magazine and online-only hierarchies.
 
 {:.links}
 - [bombmagazine.org](https://bombmagazine.org/) →
 - [Strategy brief (PDF)](assets/docs/20170404-BOMB-strategy-brief.pdf)
-
-{:.links}
-- [bombmagazine.org](https://bombmagazine.org/) →
 
 {:.info}
 - **Client:** BOMB magazine
