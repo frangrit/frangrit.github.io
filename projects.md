@@ -35,11 +35,11 @@ Before all this, I worked in tandem with our designer to create empathy maps and
 
 ## 💣 BOMB
 
-While at Rumors, I served as lead strategist on a website redesign for BOMB, a 30-year-old arts magazine based in New York. BOMB's new site strategy was focused on three goals: to facilitate lateral browsing, discovery, and research; to expand readership; and as much as possible, to future-proof content and technology. To that end, I proposed a full content restructure, focusing on structured content, standardized taxonomies and language, and content relationships that flattened the site hierarchy. The back-end content model served editorial purposes and made it easier for administrators to create platform agnostic structured content. On the front-end, navigable category types (based on subject medium and article format) acted in service of the content, subtly framing BOMB’s articles and providing high-level context to website visitors. Working with the digital editor, I created a controlled vocabulary for tags to better surface archival content, and supplied new tools in the CMS to allow for editorial groupings outside the standard print magazine and online-only hierarchies.
+While at Rumors, I served as lead strategist on a website redesign for BOMB, a 30-year-old arts magazine based in New York. BOMB's new site strategy was focused on three goals: to facilitate lateral browsing, discovery, and research; to expand readership; and as much as possible, to future-proof content and technology. To that end, I proposed a full content restructure, focusing on structured content, standardized taxonomies and language, and content relationships that flattened the site hierarchy. The back-end content model served editorial purposes and made it easier for administrators to create platform agnostic structured content. On the front-end, navigable category types (based on subject medium and article format) acted in service of the content, subtly framing BOMB’s articles and providing high-level context to website visitors. Working with the digital editor, I created a controlled vocabulary for tags to better surface archival content, and supplied new tools in the CMS to allow for editorial groupings outside the standard print magazine and online-only divide.
 
 {:.links}
 - [bombmagazine.org](https://bombmagazine.org/) →
-- [Strategy brief (PDF)](assets/docs/20170404-BOMB-strategy-brief.pdf)
+- [Strategy brief (PDF)](assets/docs/20170404-BOMB-strategy-brief.pdf) →
 
 {:.info}
 - **Client:** BOMB magazine
@@ -71,9 +71,9 @@ We encouraged the LIL team to to embrace the fundamental experience of the caseb
 Designer [Dan O. Williams](https://thisisdano.github.io) (he's also my husband) and I worked together to create prototype wireframes and fully designed screens for several key components, flows, and actions. Along with these design files, we delivered a project brief covering design principles, attributes, and an overall strategy for framing solutions. 
 
 {:.links}
-- [Prototype](https://invis.io/9J7JQ1WV2)
-- [Project brief](https://docs.google.com/document/d/1IoW40ToF59Mmlabk_rdaAC0kpwdYTRQ38Esv4lzJRWI/edit?usp=sharing)
-- [H2O](https://opencasebook.org/)
+- [Prototype](https://invis.io/9J7JQ1WV2) →
+- [Project brief](https://docs.google.com/document/d/1IoW40ToF59Mmlabk_rdaAC0kpwdYTRQ38Esv4lzJRWI/edit?usp=sharing) →
+- [H2O](https://opencasebook.org/) →
 
 {:.info}
 - **Client:** Harvard Law School - Library Innovation Lab, Cambridge, MA
