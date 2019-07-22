@@ -52,7 +52,7 @@ While at Rumors, I served as lead strategist on a website redesign for BOMB, a 3
 Folio is the web-based CMS and fulfillment software used by Verso Books, the largest independent, radical publishing house in the English-speaking world. Early in my tenure at Rumors, I performed a rigorous audit and analysis of the software, evaluating shortcomings and suggesting improvements in an exhaustive document and interactive wireframes. I also conducted user interviews with editorial, engineering, and executive staff to assess pain points and discover desired improvements.
 
 {:.links}
-- [Folio audit](https://docs.google.com/document/d/1SNQWDT7s6dsCLBnqwh05jWfGdvxICEtC8PD6Iymk6sA/edit?usp=sharing)
+- [Folio audit](https://docs.google.com/document/d/1SNQWDT7s6dsCLBnqwh05jWfGdvxICEtC8PD6Iymk6sA/edit?usp=sharing) →
 
 {:.info}
 - **Client:** Verso Books
