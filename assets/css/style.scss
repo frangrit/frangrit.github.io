@@ -173,9 +173,10 @@ ul, ol {
 }
 
 a {
+	border-bottom: 2px solid $color-primary;
 	color: $ink;
 	display: inline-block;
-	border-bottom: 2px solid $color-primary;
+	margin-bottom: -2px;
 
 	&:hover {
 		border-color: $color-primary-dark;
