@@ -7,6 +7,9 @@ title: Projects
 
 I worked for three years at [Rumors](http://rumo.rs), a small interdisciplinary design studio, in a hybrid strategist and producer role. One of my jobs was to help tighten up workflow -- to propose and guide refinements to our methodology so we could provide better service to our clients and more sanity in our day-to-day operations. After assessing the state of the studio with employee and client interviews, I guided the adoption of more agile practices. Over time, as we settled on rituals, software, and artifacts that worked for us, I wrote an [open source handbook](https://github.com/rumors/handbook) inspired by [Thoughtbot](https://thoughtbot.com/) and [18F](https://18f.gsa.gov/). It documented and codified studio practices, improved new employee onboarding, and helped to set client expectations. The handbook was meant to be a "living document" -- in other words, it's incomplete. Rumors is on hiatus as of June of 2019.
 
+{:.links}
+- [github.com/rumors/handbook](https://github.com/rumors/handbook) →
+
 {:.info}
 - **Client:** Rumors
 - **Services:** design ops, writing, editing
