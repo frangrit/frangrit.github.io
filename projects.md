@@ -3,7 +3,7 @@ class: projects
 title: Projects
 ---
 
-## 💬📓 Rumors handbook
+## Rumors handbook
 
 I worked for three years in a small, interdisciplinary design studio, where one of my roles was to help tighten up workflow practices. After awhile, I started agitating for more agile practices, and worked with my colleagues to refine our methodology and provide better service to our clients and more sanity in our day-to-day operations. As we settled into our routines, I began to write an open source handbook hosted in a [GitHub repo](#). We hoped it would document and codify studio practices, improve new employee onboarding, and help to set client expectations. The handbook was meant to be a "living document" -- in other words, it's incomplete. Rumors is on hiatus as of June of 2019.
 
@@ -13,7 +13,7 @@ I worked for three years in a small, interdisciplinary design studio, where one 
 - **With:** Rumors
 - **When:** 2016-2019
 
-## 💆‍♀️🏢 Sister City
+## Sister City
 
 Rumors was contracted by the Ace hotels team to design and build a custom platform connecting multiple hospitality software services and a new website for a New York "lean luxe" hotel. We provided content strategy, UX design, front-end, back-end, and API design services. It was a complex piece of software, with a deep set of features: a hotel room availability calendar matrix, user accounts, a dashboard for service requests and reservation management, and the usual photo galleries and text content. (This somehow makes it sound simpler than it was!)
 
