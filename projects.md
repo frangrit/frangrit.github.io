@@ -1,6 +1,6 @@
 ---
 class: projects
-title: Projects
+title: Selected projects
 ---
 
 ## 📓 Rumors handbook
