@@ -115,7 +115,7 @@ Throughout the design research process, the team referred to the outcome of the 
 
 ## ➕ n+1
 
-n+1 is an organization with a magazine at its center, from which other projects and publications emerge. The website sidelined the group’s projects and publications, and privileged the non-subscriber by offering over ten years of meticulously crafted content for free. I worked with n+1’s designer, Dan O. Williams (yes, my husband), to completely revamp the site strategy and update the visual design. We reconfigured the site as a subscription based, paywalled platform, establishing a content hierarchy that highlights magazine subscriptions and books, with a clear distinction between these and other content. Visually, the site continues to reflect the design sensibility of the print magazine, recontextualized as a responsive, device-agnostic digital platform.
+n+1 is an organization with a magazine at its center, from which other projects and publications emerge. The website sidelined the group’s projects and publications, and privileged the non-subscriber by offering over ten years of meticulously crafted content for free. I worked with n+1’s designer to completely revamp the site strategy and update the visual design. We reconfigured the site as a subscription based, paywalled platform, establishing a content hierarchy that highlights magazine subscriptions and books, with a clear distinction between these and other content. Visually, the site continues to reflect the design sensibility of the print magazine, recontextualized as a responsive, device-agnostic digital platform.
 
 {:.links}
 - [nplusonemag.com](http://nplusonemag.com) →
