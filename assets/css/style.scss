@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://rsms.me/inter/inter.css');
 
 // ----------------------------------
 
@@ -36,7 +37,15 @@ $unit: 8px;
 }
 
 html {
-	font-size: 100%;	
+	font-family: 'Inter', sans-serif;
+}
+
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}
+
+html {
+	font-size: 100%;
 }
 
 body {
@@ -78,7 +87,7 @@ h2 {
 
 	@include at-media($size-md) {
 		font-size: 1.5rem;
-	}	
+	}
 }
 
 ul, ol {
