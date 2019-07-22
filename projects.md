@@ -1,17 +1,19 @@
 ---
+class: projects
+title: Projects
 ---
 
-# Rumors handbook
+## 💬📓 Rumors handbook
 
-I worked for three years in a small, interdisciplinary design studio, where one of my roles was to help tighten up workflow practices. After awhile, I started agitating for more agile practices, and worked with my colleagues to refine our methodology and provide better service to our clients and more sanity in our day-to-day operations. As we settled into our routines, I began to write an open source handbook hosted in a GitHub repo. We hoped it would document and codify studio practices, improve new employee onboarding, and help to set client expectations. The handbook was meant to be a "living document" -- in other words, it's incomplete. Rumors is on hiatus as of June of 2019.
+I worked for three years in a small, interdisciplinary design studio, where one of my roles was to help tighten up workflow practices. After awhile, I started agitating for more agile practices, and worked with my colleagues to refine our methodology and provide better service to our clients and more sanity in our day-to-day operations. As we settled into our routines, I began to write an open source handbook hosted in a [GitHub repo](#). We hoped it would document and codify studio practices, improve new employee onboarding, and help to set client expectations. The handbook was meant to be a "living document" -- in other words, it's incomplete. Rumors is on hiatus as of June of 2019.
 
-Client: Rumors
-Services: design ops, writing, editing
-With: Rumors
+{:.info}
+- **Client:** Rumors
+- **Services:** design ops, writing, editing
+- **With:** Rumors
+- **When:** 2016-2019
 
-2016-2019
-
-# Sister City
+## 💆‍♀️🏢 Sister City
 
 Rumors was contracted by the Ace hotels team to design and build a custom platform connecting multiple hospitality software services and a new website for a New York "lean luxe" hotel. We provided content strategy, UX design, front-end, back-end, and API design services. It was a complex piece of software, with a deep set of features: a hotel room availability calendar matrix, user accounts, a dashboard for service requests and reservation management, and the usual photo galleries and text content. (This somehow makes it sound simpler than it was!)
 
@@ -19,19 +21,20 @@ One the many exciting challenges of the project was how to account for publishin
 
 Before all this, I worked in tandem with our designer to create empathy maps and personas, which we used to guide user journey design, information design, content strategy, and feature development.
 
-- sistercitynyc.com
+{:.links}
+- [sistercitynyc.com](https://sistercitynyc.com) →
 
-Client: Ace Hotel Group
-Services: design research, content strategy, information architecture, UX design, writing
-With: Rumors
+{:.info}
+- **Client:** Ace Hotel Group
+- **Services:** design research, content strategy, information architecture, UX design, writing
+- **With:** Rumors
+- **When:** October 2018
 
-October 2018
-
-# BOMB
+## BOMB
 
 Developed category taxonomies to undergird navigation and wayfinding for website of 30-year-old arts magazine; working with digital editor, created controlled vocabulary for tags to better surface related archival content
 
-# Folio
+## Folio
 
 Performed a rigorous audit of Verso's web-based CMS and fulfillment software; evaluated shortcomings and suggested improvements in an exhaustive document with interactive wireframes; conducted user interviews with editorial, engineering, and executive staff to assess pain points and desired improvements
 
@@ -44,7 +47,7 @@ With: Rumors
 
 Xyz 2016
 
-# H2O
+## H2O
 
 H2O is a platform for creating, sharing and remixing open course materials, created by the Library Innovation Lab at the Harvard Law School Library. The goal of this project was to create a static prototype that demonstrated a compelling vision of H2O. How might the tool work best to serve students and professors of law? Which elements are used most? What functionalities might we introduce or remove to enhance the user experience? Along with the static prototype files, I delivered
 
@@ -62,7 +65,7 @@ With: Dan O. Williams, creative direction and visual design
 
 November 2015
 
-# The Nuremberg Project
+## The Nuremberg Project
 
 The Harvard Law School Library’s Nuremberg Project is an open-access initiative to create and present digitized images or full-text versions of the Library’s complete set of Nuremberg documents, descriptions of each document, and general information about the trials.
 
@@ -79,8 +82,8 @@ Services: creative direction, content strategy, information architecture, UX des
 
 November 2015
 
-# “Alive and Well”
-## design research
+## “Alive and Well”
+### design research
 
 Williams College was creating a new environmental center that aimed to achieve Living Building certification. The college wanted to gather data on the building’s energy use and communicate that data in a dynamic and compelling way to the building’s occupants and other people and institutions. But how? Williams invited me to consult on the design process for this yet-to-be-created tool. My goal was to help determine the project audience and recommend potential solutions. Who is interested in this building’s energy use? How might they engage with this information? How could we foster meaningful, interactive experiences?
 
@@ -95,8 +98,8 @@ Services: design research, workshop facilitation, user interviews
 
 December 2014
 
-# n+1
-## website
+## n+1
+### website
 
 n+1 print magazine is designed by my husband Dan, so we were both thrilled when the team there approached us for a second time — the first was in 2009 — to redesign the website. This time around, our goals were to completely revamp the online strategy and update the visual design.
 

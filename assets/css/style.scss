@@ -8,6 +8,7 @@
 
 $accent-cool: #fde0db;
 $accent-warm: #FFCE49;
+$ink: #1E1E1E;
 
 $site-max-width: 50rem;
 $size-sm: 20em;
@@ -49,6 +50,7 @@ html {
 }
 
 body {
+	color: $ink;
 	font-size: 1rem;
 	max-width: $site-max-width;
 	margin: 0 auto;
@@ -59,11 +61,16 @@ body {
 	}
 }
 
+p {
+	margin-bottom: 0;
+}
+
 * + p {
 	margin-top: 1em;
 }
 
 h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
 	line-height: 1.15;
 	margin-bottom: 0;
 	margin-top: units(2);
@@ -75,18 +82,23 @@ h1, h2, h3, h4, h5, h6 {
 	}
 }
 
-h1 {
+h1, h2 {
 	font-size: 1rem;
-	margin-bottom: units(3);
-	margin-top: 0;
-}
-
-h2 {
-	font-size: 1rem;
-	margin-top: units(4);
 
 	@include at-media($size-md) {
 		font-size: 1.5rem;
+	}
+}
+
+h1 {
+	margin-top: units(0.5);
+}
+
+h2 {
+	margin-top: units(4);
+
+	@include at-media($size-md) {
+		margin-top: units(6);
 	}
 }
 
@@ -115,4 +127,51 @@ footer {
 		font-size: 0.75rem;
 		margin-top: 0;
 	}
+}
+
+header {
+	margin-bottom: units(4);
+}
+
+a {
+	color: $ink;
+	text-decoration: underline;
+	text-decoration-color: $accent-warm;
+
+	&:hover {
+		text-decoration-color: $ink;
+	}
+}
+
+.info {
+
+	& + .info {
+		margin-top: 0;
+	}
+
+}
+
+b, strong {
+	font-weight: bold;
+}
+
+ul.info {
+	font-size: .75rem;
+	margin-top: units(2);
+
+	li {
+	 	border-top: none;
+	 	margin: 0;
+	 	padding: 0;
+	 }
+
+	@include at-media($size-md) {
+		font-size: 1rem;
+	}
+}
+
+ul.links {
+	li {
+	 	border-top: none;
+	 }
 }

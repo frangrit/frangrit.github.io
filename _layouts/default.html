@@ -5,14 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-
     <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Serif:400,400i,700i&display=swap" rel="stylesheet">
-
-    <title>📓🍜😬</title>
+    <title>{{ page.title }}</title>
   </head>
-  <body>
+  <body class="{{ page.class }}">
     <div class="wrapper">
       <header>
+        <nav>
+          <strong><a class="site-title" href="/">Frances Duncan</a></strong>
+        </nav>
+        {% if page.title %}
+          <h1>{{ page.title }}</h1>
+        {% endif %}
       </header>
       <section>
 
