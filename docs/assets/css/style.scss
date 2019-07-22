@@ -1,0 +1,109 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// ----------------------------------
+
+$accent-cool: #fde0db;
+$accent-warm: #FFCE49;
+
+$site-max-width: 50rem;
+$size-sm: 20em;
+$size-md: 35em;
+$size-lg: 50em;
+$unit: 8px;
+
+// ----------------------------------
+
+@mixin at-media($breakpoint) {
+	@media (min-width: $breakpoint) {
+		@content;
+	}
+}
+
+@function units($multiplier) {
+	$in-px: $multiplier * $unit;
+	$in-rem: ($in-px / 16px) * 1rem;
+	@return $in-rem;
+}
+
+// ----------------------------------
+
+::selection {
+  background: $accent-cool;
+  text-shadow: none;
+}
+
+html {
+	font-size: 100%;	
+}
+
+body {
+	font-size: 1rem;
+	max-width: $site-max-width;
+	margin: 0 auto;
+	padding: units(2);
+
+	@include at-media($size-md) {
+		font-size: 1.5rem;
+	}
+}
+
+* + p {
+	margin-top: 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	line-height: 1.15;
+	margin-bottom: 0;
+	margin-top: units(2);
+
+	& + p,
+	& + ul,
+	& + ol {
+		margin-top: units(0.5);
+	}
+}
+
+h1 {
+	font-size: 1rem;
+	margin-bottom: units(3);
+	margin-top: 0;
+}
+
+h2 {
+	font-size: 1rem;
+	margin-top: units(4);
+
+	@include at-media($size-md) {
+		font-size: 1.5rem;
+	}	
+}
+
+ul, ol {
+	font-size: 1rem;
+
+	li {
+		list-style-type: none;
+		margin-top: units(1);
+		padding-top: units(1);
+		border-top: 1px solid $accent-warm;
+	}
+}
+
+footer {
+	line-height: 1.35;
+	margin-top: units(6);
+
+	p {
+		font-size: 1rem;
+		margin-bottom: units(0.5);
+	}
+
+	small {
+		display: block;
+		font-size: 0.75rem;
+		margin-top: 0;
+	}
+}
