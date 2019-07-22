@@ -1,3 +1,6 @@
+---
+---
+
 # Rumors handbook
 
 I worked for three years in a small, interdisciplinary design studio, where one of my roles was to help tighten up workflow practices. After awhile, I started agitating for more agile practices, and worked with my colleagues to refine our methodology and provide better service to our clients and more sanity in our day-to-day operations. As we settled into our routines, I began to write an open source handbook hosted in a GitHub repo. We hoped it would document and codify studio practices, improve new employee onboarding, and help to set client expectations. The handbook was meant to be a "living document" -- in other words, it's incomplete. Rumors is on hiatus as of June of 2019.
