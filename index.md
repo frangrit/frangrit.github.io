@@ -14,6 +14,9 @@ My favorite [projects](projects) have elements of content strategy, product mana
 {:.intro}
 After several years in the fuzzy green mountains of western Massachusetts, I relocated to the tall firs of Portland, Oregon. (But I still think of New York City as home.)
 
+{:.links}
+- [Selected projects](projects) →
+
 
 ## 👍
 - Getting shit done without being a jerk about it
@@ -31,6 +34,3 @@ After several years in the fuzzy green mountains of western Massachusetts, I rel
 - Long hours
 - Schmoozing
 - Crunching numbers
-
-{:.links}
-- [Selected projects](projects) →
