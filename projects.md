@@ -82,8 +82,6 @@ Workshops and discussions with LIL yielded a complete overhaul of the site’s c
 
 I created a suite of wireframes with increasing levels of fidelity, before building a static prototype using Sketch and InVision. Along with the prototype, I also provided a series of support documentation for the site’s strategy and design beyond the prototype phase: a creative brief to help guide further design direction; a style guide covering specific site design choices and interface elements that effectively and appropriately convey information about the depth and complexity of the trials; and a content strategy brief and extensive revisions to the site’s existing text.
 
-The visual tone was inspired by a visit to the small New England Holocaust Memorial park in downtown Boston. One of the typefaces I used is called Proof -- its name seemed apt for a collection of documents about events that continue to require vigilant remembrance.
-
 {:.links}
 - [nuremberg.law.harvard.edu](https://nuremberg.law.harvard.edu/) →
 
