@@ -2,25 +2,55 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://rsms.me/inter/inter.css');
 
 // ----------------------------------
 
-$accent-cool: #fde0db;
-$accent-warm: #FFCE49;
+$color-accent: #CBFF00;
+$color-primary: #FDE0DB;
+$color-primary-dark: rgb(243, 118, 206);
 $ink: #1E1E1E;
+$paper: #fffbfc;
+
+$font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-serif: 'IBM Plex Serif', serif;
 
 $site-max-width: 50rem;
+$text-max-width: 68ex;
 $size-sm: 20em;
 $size-md: 35em;
 $size-lg: 50em;
 $unit: 8px;
+
+$body-line-height: 1.5;
+$tight-line-height: 1.35;
+$heading-line-height: 1.15;
+$prose-line-height: 1.62;
+
+$small-text: 0.75rem;
 
 // ----------------------------------
 
 @mixin at-media($breakpoint) {
 	@media (min-width: $breakpoint) {
 		@content;
+	}
+}
+
+@mixin size-sm {
+	@include at-media($size-md) {
+		font-size: $small-text;
+	}
+}
+
+@mixin size-md {
+	@include at-media($size-md) {
+		font-size: 1.15rem;
+	}
+}
+
+@mixin size-lg {
+	@include at-media($size-md) {
+		font-size: 1.5rem;
 	}
 }
 
@@ -33,52 +63,61 @@ $unit: 8px;
 // ----------------------------------
 
 ::selection {
-  background: $accent-cool;
+  background: $color-accent;
   text-shadow: none;
 }
 
-html {
-	font-family: 'Inter', sans-serif;
-}
-
-@supports (font-variation-settings: normal) {
-  html { font-family: 'Inter var', sans-serif; }
+html, footer {
+	font-family: $font-sans;
 }
 
 html {
 	font-size: 100%;
+	background-color: $paper;
 }
 
-body {
-	color: $ink;
-	font-size: 1rem;
-	max-width: $site-max-width;
-	margin: 0 auto;
-	padding: units(2);
+header {
+	margin-bottom: units(4);
 
-	@include at-media($size-md) {
-		font-size: 1.5rem;
+	strong {
+		@include size-lg;
 	}
 }
 
-p {
-	margin-bottom: 0;
+body {
+	background-color: transparent;
+	color: $ink;
+	font-size: 100%;
+	line-height: $body-line-height;
+	max-width: $site-max-width;
+	margin: 0 auto;
+	padding: units(2);
 }
 
-* + p {
-	margin-top: 1em;
+footer {
+	line-height: $tight-line-height;
+	margin-top: units(6);
+
+	p {
+		font-family: $font-sans;
+		margin-bottom: units(0.5);
+	}
+
+	small {
+		display: block;
+		font-size: $small-text;
+		margin-top: 0;
+	}
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-weight: bold;
-	line-height: 1.15;
+	line-height: $heading-line-height;
 	margin-bottom: 0;
-	margin-top: units(2);
 
 	& + p,
 	& + ul,
 	& + ol {
-		margin-top: units(0.5);
+		margin-top: units(1.5);
 	}
 }
 
@@ -91,10 +130,16 @@ h1, h2 {
 }
 
 h1 {
-	margin-top: units(0.5);
+	margin-top: units(1);
+	font-weight: bold;
+}
+
+.index h1 {
+	margin-top: units(1.5);
 }
 
 h2 {
+	font-weight: normal;
 	margin-top: units(4);
 
 	@include at-media($size-md) {
@@ -102,61 +147,56 @@ h2 {
 	}
 }
 
+p {
+	font-family: $font-serif;
+	line-height: $prose-line-height;
+	margin-bottom: 0;
+	max-width: $text-max-width;
+
+	@include at-media($size-md) {
+		font-size: 1.15rem;
+	}
+
+	* + & {
+		margin-top: 1em;
+	}
+}
+
 ul, ol {
-	font-size: 1rem;
+	list-style-type: none;
 
 	li {
-		list-style-type: none;
 		margin-top: units(1);
 		padding-top: units(1);
-		border-top: 1px solid $accent-warm;
+		border-top: 1px solid $color-primary;
 	}
-}
-
-footer {
-	line-height: 1.35;
-	margin-top: units(6);
-
-	p {
-		font-size: 1rem;
-		margin-bottom: units(0.5);
-	}
-
-	small {
-		display: block;
-		font-size: 0.75rem;
-		margin-top: 0;
-	}
-}
-
-header {
-	margin-bottom: units(4);
 }
 
 a {
 	color: $ink;
-	text-decoration: underline;
-	text-decoration-color: $accent-warm;
+	display: inline-block;
+	border-bottom: 2px solid $color-primary;
 
 	&:hover {
-		text-decoration-color: $ink;
+		border-color: $color-primary-dark;
+		text-decoration: none;
+	}
+}
+
+b, strong {
+	font-family: $font-sans;
+	font-weight: bold;
+}
+
+.intro {
+	line-height: $body-line-height;
+	@include at-media($size-md) {
+		font-size: 1.5rem;
 	}
 }
 
 .info {
-
-	& + .info {
-		margin-top: 0;
-	}
-
-}
-
-b, strong {
-	font-weight: bold;
-}
-
-ul.info {
-	font-size: .75rem;
+	font-size: $small-text;
 	margin-top: units(2);
 
 	li {
@@ -170,8 +210,8 @@ ul.info {
 	}
 }
 
-ul.links {
+.links {
 	li {
 	 	border-top: none;
-	 }
+	}
 }
