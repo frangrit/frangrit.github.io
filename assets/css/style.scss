@@ -198,7 +198,7 @@ b, strong {
 
 .info {
 	font-size: $small-text;
-	margin-top: units(2);
+	margin-top: units(3);
 
 	li {
 	 	border-top: none;
@@ -212,11 +212,11 @@ b, strong {
 }
 
 .links {
-	margin-top: units(1.5);
+	margin-top: units(0.5);
 
 	li {
 		border-top: none;
 		margin-top: 0;
-		padding-top: units(0.5);
+		padding-top: units(1);
 	}
 }
