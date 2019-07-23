@@ -35,13 +35,16 @@ Before all this, I worked in tandem with our designer to create empathy maps and
 
 ## 💣 BOMB
 
-While at Rumors, I served as lead strategist on a website redesign for BOMB, a 30-year-old arts magazine based in New York. The content strategy I proposed provided a scalable structure and navigational model. It prioritized content resources and supported growth and cross-platform compatibility, encouraged lateral and associative movement, and created moments of discovery by connecting formerly siloed channels. Importantly for this historic magazine, it helped visitors understand BOMB’s projects and history without a lot of labor.
+While at Rumors, I served as lead strategist on a website redesign for BOMB, a 30-year-old arts magazine. Overall, my aim with the new site was to help visitors understand BOMB’s projects and history without a lot of labor. This meant
+encouraging lateral movement and moments of discovery by connecting formerly siloed channels, and providing a scalable structure that prioritized content resources and supported growth and cross-platform compatibility.
 
 We completely restructured BOMB's content, standardizing taxonomies and language, and creating new content relationships. The back-end content model made it easier for administrators to create platform agnostic structured content. On the front-end, navigable category types (based on subject medium and article format) subtly framed BOMB’s articles and provided high-level context to website visitors. Working with the digital editor, I created a controlled vocabulary for tags to better surface archival articles, and supplied new CMS tools for editorial groupings outside the standard print magazine and online-only divide.
 
 {:.links}
 - [bombmagazine.org](https://bombmagazine.org/) →
 - [Content strategy brief](https://paper.dropbox.com/doc/Content-strategy--AhY19pp40haUKrom6nlowcXwAQ-HjwK4KUsHgMm2tPOE3NqP) →
+- [Content model](https://docs.google.com/spreadsheets/d/1asmbVC_VnbLtp2UCFY7378WLYafHhOta7Wi7dIKFb04/edit#gid=0) →
+
 
 {:.info}
 - **Client:** BOMB magazine
