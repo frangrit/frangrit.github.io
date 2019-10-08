@@ -9,7 +9,7 @@ header: Selected projects
 I worked for three years at [Rumors](http://rumo.rs), a small interdisciplinary design studio, in a hybrid strategist and producer role. One of my jobs was to propose and guide refinements to our methodology so we could provide better service to our clients and more sanity in our day-to-day operations. After assessing the state of the studio with employee and client interviews, I guided the adoption of more agile practices. Over time, as we settled on rituals, software, and artifacts that worked for us, I wrote an [open source handbook](https://github.com/rumors/handbook) inspired by [Thoughtbot](https://thoughtbot.com/) and [18F](https://18f.gsa.gov/). It documented and codified studio practices, improved new employee onboarding, and helped to set client expectations. The handbook was meant to be a living document -- in other words, it's still a bit incomplete.
 
 {:.links}
-- [Rumors handbook](https://github.com/rumors/handbook) →
+- [Rumors handbook repo](https://github.com/rumors/handbook) →
 
 {:.info}
 - **Client:** Rumors
@@ -42,10 +42,9 @@ encouraging lateral movement and moments of discovery by connecting formerly sil
 We completely restructured BOMB's content, standardizing taxonomies and language, and creating new content relationships. The back-end content model made it easier for administrators to create platform agnostic structured content. On the front-end, navigable category types (based on subject medium and article format) subtly framed BOMB’s articles and provided high-level context to website visitors. Working with the digital editor, I created a controlled vocabulary for tags to better surface archival articles, and supplied new CMS tools for editorial groupings outside the standard print magazine and online-only divide.
 
 {:.links}
-- [bombmagazine.org](https://bombmagazine.org/) →
 - [Content strategy brief](https://paper.dropbox.com/doc/Content-strategy--AhY19pp40haUKrom6nlowcXwAQ-HjwK4KUsHgMm2tPOE3NqP) →
-- [Content model](https://docs.google.com/spreadsheets/d/1asmbVC_VnbLtp2UCFY7378WLYafHhOta7Wi7dIKFb04/edit#gid=0) →
-
+- [Content model spreadsheet](https://docs.google.com/spreadsheets/d/1asmbVC_VnbLtp2UCFY7378WLYafHhOta7Wi7dIKFb04/edit#gid=0) →
+- [bombmagazine.org](https://bombmagazine.org/) →
 
 {:.info}
 - **Client:** BOMB magazine
@@ -58,7 +57,7 @@ We completely restructured BOMB's content, standardizing taxonomies and language
 Folio is the web-based CMS and fulfillment software used by Verso Books, the largest radical publishing house in the English-speaking world. Early in my tenure at Rumors, I performed a rigorous audit and analysis of the software, evaluating shortcomings and suggesting improvements in an exhaustive document along with interactive wireframes. I also conducted user interviews with editorial, engineering, and executive staff to assess pain points and discover desired improvements.
 
 {:.links}
-- [Folio audit](https://docs.google.com/document/d/1SNQWDT7s6dsCLBnqwh05jWfGdvxICEtC8PD6Iymk6sA/edit?usp=sharing) →
+- [Folio audit documentation](https://docs.google.com/document/d/1SNQWDT7s6dsCLBnqwh05jWfGdvxICEtC8PD6Iymk6sA/edit?usp=sharing) →
 
 {:.info}
 - **Client:** Verso Books
@@ -77,9 +76,9 @@ We encouraged the LIL team to to embrace the fundamental experience of the caseb
 Designer [Dan O. Williams](https://thisisdano.github.io) (he's also my husband) and I worked together to create prototype wireframes and fully designed screens for several key components, flows, and actions. Along with these design files, we delivered a project brief covering design principles, attributes, and an overall strategy for framing solutions.
 
 {:.links}
-- [Prototype](https://invis.io/9J7JQ1WV2) →
-- [Project brief](https://docs.google.com/document/d/1IoW40ToF59Mmlabk_rdaAC0kpwdYTRQ38Esv4lzJRWI/edit?usp=sharing) →
-- [H2O](https://opencasebook.org/) →
+- [Prototype InVision board](https://invis.io/9J7JQ1WV2) →
+- [Project brief document](https://docs.google.com/document/d/1IoW40ToF59Mmlabk_rdaAC0kpwdYTRQ38Esv4lzJRWI/edit?usp=sharing) →
+- [opencasebook.org](https://opencasebook.org/) →
 
 {:.info}
 - **Client:** Harvard Law School - Library Innovation Lab, Cambridge, MA
