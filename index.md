@@ -1,6 +1,6 @@
 ---
 class: index
-title: Frances Duncan, digital strategist
+title: Frances Duncan, strategist
 header: 
 ---
 
