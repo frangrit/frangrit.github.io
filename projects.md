@@ -4,6 +4,28 @@ title: Selected projects
 header: Selected projects
 ---
 
+## 👖 Levi's
+
+Instrument invited me to drop in as a user experience strategist during a long-term project with Levi’s. Embedded on a large, interdisciplinary team as one of two strategists, my primary focus was the website’s product detail page (PDP) — the part of the user journey that describes a product’s characteristics and, ideally, leads to a purchase. 
+
+Using Baymard, Omnia, Nielsen Norman, and others, I researched ecommerce best practices and industry standards, analyzed competitors, and synthesized the client’s own UX research. Equipped with these insights, I created persona-based user journey maps and high-fidelity annotated wireframes meant to communicate strategic recommendations. Alongside the wires, I wrote up a PDP UX strategy document with detailed recommendations mostly centered around content hierarchy, product imagery experience, and size and fit guidance. 
+
+As the project sped on, we were often called on to rapidly iterate changes based on client feedback. It was crucial to work collaboratively with the design team and stay focused on advocating for user needs and best practices.
+
+Moderated user testing validated our assumptions and gave us qualitative insights to support strategic recommendations. I helped Instrument’s internal research and testing team pinpoint testing areas and hypotheses, then sat in on remote tests as an observer — an experience that was both very exciting and totally grueling. 
+
+According to [Instrument’s case study](https://www.instrument.com/work/levis/), product views are up by 20%.
+
+{:.links}
+- [Levi.com →](https://www.levi.com/)
+
+{:.info}
+- **Client:** Levi’s
+- **Services:** UX research, UX strategy, UX design, information architecture
+- **With:** Instrument
+- **When:** 2020
+
+
 ## 📓 Rumors handbook
 
 I worked for three years at [Rumors](http://rumo.rs), a small interdisciplinary design studio, in a hybrid strategist and producer role. One of my jobs was to propose and guide refinements to our methodology so we could provide better service to our clients and more sanity in our day-to-day operations. After assessing the state of the studio with employee and client interviews, I guided the adoption of more agile practices. Over time, as we settled on rituals, software, and artifacts that worked for us, I wrote an [open source handbook](https://github.com/rumors/handbook) inspired by [Thoughtbot](https://thoughtbot.com/) and [18F](https://18f.gsa.gov/). It documented and codified studio practices, improved new employee onboarding, and helped to set client expectations. The handbook was meant to be a living document -- in other words, it's still a bit incomplete.
