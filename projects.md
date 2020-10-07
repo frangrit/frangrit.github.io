@@ -124,7 +124,7 @@ I created wireframes with increasing levels of fidelity before building a static
 - **Services:** creative direction, content strategy, information architecture, UX design, UI design, writing
 - **When:** 2015
 
-## 📊 “Alive and Well”
+## 📊 Williams College
 
 [Williams College](https://www.williams.edu/) wanted to gather data on a campus building’s energy use and communicate that data in a dynamic and compelling way to the building’s occupants and other people and institutions. But how? Williams invited me to consult on the design process for this yet-to-be-created tool. My goal was to help determine the project audience and recommend potential solutions. Who is interested in this building’s energy use? How might they engage with this information? How could we foster meaningful, interactive experiences?
 
