@@ -15,8 +15,8 @@ For 20 years, I’ve brought empathy, intelligence, and editorial verve to my wo
 
 ## 👍
 - Getting shit done without being a jerk about it
-- Inquiry
-- Analysis
+- Irreverence
+- Inquiry and analysis
 - Organizing information
 - Small commits
 - Delightful microcopy
