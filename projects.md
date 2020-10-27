@@ -123,6 +123,21 @@ I created wireframes with increasing levels of fidelity before building a static
 - **Services:** creative direction, content strategy, information architecture, UX design, UI design, writing
 - **When:** 2015
 
+## ➕ Product management and content strategy for n+1
+
+n+1 is an organization with a magazine at its center, from which other projects and publications emerge. At the start, the website sidelined the group’s non-magazine projects and publications, and privileged the non-subscriber by offering over ten years of meticulously crafted content for free.
+
+I worked with n+1’s designer to completely revamp the site strategy and update the visual design. We reconfigured the site as a subscription based, paywalled platform, establishing a content hierarchy that highlights magazine subscriptions and books, with a clear distinction between these and other content. Visually, the site continues to reflect the design sensibility of the print magazine, recontextualized as a responsive, device-agnostic digital platform.
+
+{:.links}
+- [nplusonemag.com](http://nplusonemag.com) →
+
+{:.info}
+- **Client:** n+1, New York, NY
+- **Services:** strategy, information architecture, UX design, front-end development, project management
+- **With:** Dan O. Williams, creative direction and visual design
+- **When:** 2014
+
 ## 📊 Living Building user and stakeholder research
 
 [Williams College](https://www.williams.edu/) wanted to gather data on a campus building’s energy use and communicate that data in a dynamic and compelling way to the building’s occupants and other people and institutions. But how? Williams invited me to consult on the design process for this yet-to-be-created tool. My goal was to help determine the project audience and recommend potential solutions. Who is interested in this building’s energy use? How might they engage with this information? How could we foster meaningful, interactive experiences?
@@ -137,19 +152,4 @@ Throughout the design research process, the team referred to the outcome of the 
 {:.info}
 - **Client:** Williams College, Williamstown, MA
 - **Services:** design research, workshop facilitation, user interviews
-- **When:** 2014
-
-## ➕ Product management and content strategy for n+1
-
-n+1 is an organization with a magazine at its center, from which other projects and publications emerge. At the start, the website sidelined the group’s non-magazine projects and publications, and privileged the non-subscriber by offering over ten years of meticulously crafted content for free.
-
-I worked with n+1’s designer to completely revamp the site strategy and update the visual design. We reconfigured the site as a subscription based, paywalled platform, establishing a content hierarchy that highlights magazine subscriptions and books, with a clear distinction between these and other content. Visually, the site continues to reflect the design sensibility of the print magazine, recontextualized as a responsive, device-agnostic digital platform.
-
-{:.links}
-- [nplusonemag.com](http://nplusonemag.com) →
-
-{:.info}
-- **Client:** n+1, New York, NY
-- **Services:** strategy, information architecture, UX design, front-end development, project management
-- **With:** Dan O. Williams, creative direction and visual design
 - **When:** 2014
