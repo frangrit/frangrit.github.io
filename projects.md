@@ -4,7 +4,7 @@ title: Selected projects
 header: Selected projects
 ---
 
-## 👖 Levi's
+## 👖 Wireframes and UX research for Levi's
 
 Instrument invited me to drop in as a user experience strategist during a long-term project with Levi’s. Embedded on a large, interdisciplinary team as one of two strategists, my primary focus was the website’s product detail page (PDP) — the part of the user journey that describes a product’s characteristics and, ideally, leads to a purchase. 
 
@@ -25,21 +25,7 @@ According to [Instrument’s case study](https://www.instrument.com/work/levis/)
 - **With:** Instrument
 - **When:** 2020
 
-
-## 📓 Rumors handbook
-
-I worked for three years at [Rumors](http://rumo.rs), a small interdisciplinary design studio, in a hybrid strategist and producer role. One of my jobs was to propose and guide refinements to our methodology so we could provide better service to our clients and more sanity in our day-to-day operations. After assessing the state of the studio with employee and client interviews, I guided the adoption of more agile practices. Over time, as we settled on rituals, software, and artifacts that worked for us, I wrote an [open source handbook](https://github.com/rumors/handbook) inspired by [Thoughtbot](https://thoughtbot.com/) and [18F](https://18f.gsa.gov/). It documented and codified studio practices, improved new employee onboarding, and helped to set client expectations. The handbook was meant to be a living document -- in other words, it's still a bit incomplete.
-
-{:.links}
-- [Rumors handbook repo](https://github.com/rumors/handbook) →
-
-{:.info}
-- **Client:** Rumors
-- **Services:** design ops, writing, editing
-- **With:** Rumors
-- **When:** 2016-2019
-
-## 🔵 Sister City
+## 🔵 Product management and content strategy for API-driven hotel software
 
 The Ace hotels team contracted Rumors to develop a web-based tool for their new "lean luxe" hotel in New York City. Working closely with Ace engineers, we built a platform that connects multiple hospitality software services behind the facade of an elegantly simple website. We provided content strategy, UX design, front-end, back-end, and API design services. It was a complex piece of software, with a deep set of features: a hotel room availability calendar matrix, user accounts, a service requests dashboard, reservation management, and the usual photo galleries and text content. (This somehow makes it sound simpler than it was!)
 
@@ -56,7 +42,20 @@ Before all this, I worked in tandem with our designer to create empathy maps and
 - **With:** Rumors
 - **When:** 2018
 
-## 💣 BOMB
+## 📓 Operation documentation
+
+I worked for three years at [Rumors](http://rumo.rs), a small interdisciplinary design studio, in a hybrid strategist and producer role. One of my jobs was to propose and guide refinements to our methodology so we could provide better service to our clients and more sanity in our day-to-day operations. After assessing the state of the studio with employee and client interviews, I guided the adoption of more agile practices. Over time, as we settled on rituals, software, and artifacts that worked for us, I wrote an [open source handbook](https://github.com/rumors/handbook) inspired by [Thoughtbot](https://thoughtbot.com/) and [18F](https://18f.gsa.gov/). It documented and codified studio practices, improved new employee onboarding, and helped to set client expectations. The handbook was meant to be a living document -- in other words, it's still a bit incomplete.
+
+{:.links}
+- [Rumors handbook repo](https://github.com/rumors/handbook) →
+
+{:.info}
+- **Client:** Rumors
+- **Services:** design ops, writing, editing
+- **With:** Rumors
+- **When:** 2016-2019
+
+## 💣 Technical content strategy for lateral discovery
 
 While at Rumors, I served as lead strategist on a website redesign for BOMB, a 30-year-old arts magazine. Overall, my aim with the new site was to help visitors understand BOMB’s projects and history without a lot of labor. This meant
 encouraging lateral movement and moments of discovery by connecting formerly siloed channels, and providing a scalable structure that prioritized content resources and supported growth and cross-platform compatibility.
@@ -74,7 +73,7 @@ We completely restructured BOMB's content, standardizing taxonomies and language
 - **With:** Rumors
 - **When:** 2017
 
-## 📕 Folio
+## 📕 Practical insights for a custom CMS UX
 
 Folio is the web-based CMS and fulfillment software used by Verso Books, the largest radical publishing house in the English-speaking world. Early in my tenure at Rumors, I performed a rigorous audit and analysis of the software, evaluating shortcomings and suggesting improvements in an exhaustive document along with interactive wireframes. I also conducted user interviews with editorial, engineering, and executive staff to assess pain points and discover desired improvements.
 
@@ -87,7 +86,7 @@ Folio is the web-based CMS and fulfillment software used by Verso Books, the lar
 - **With:** Rumors
 - **When:** 2016
 
-## ⚖️ H2O
+## ⚖️ Open course material prototype for Harvard Law School
 
 H2O is a platform for creating, sharing, and remixing open course materials, created by the [Library Innovation Lab](https://lil.law.harvard.edu/) (LIL) at Harvard Law School. The goal of this project was to create a static prototype demonstrating a compelling vision of H2O. How might it best serve students and professors of law? Which elements are used most? What functionalities might we introduce or remove to enhance the user experience?
 
@@ -108,7 +107,7 @@ Designer [Dan O. Williams](https://thisisdano.github.io) (he's also my husband) 
 - **With:** Dan O. Williams, creative direction and visual design
 - **When:** 2015
 
-## 📜 The Nuremberg Project
+## 📜 Accessible discovery of Nuremberg artifacts
 
 [LIL](https://lil.law.harvard.edu/)’s [Nuremberg Project](http://nuremberg.law.harvard.edu/) is an initiative to provide open access to the Library’s complete set of Nuremberg documents and information about the trials. The goal of this project was to represent the full spectrum of the collection — over a million pages — and relate the transcripts and documents in an engaging, accessible way for both scholars the public. The prototype I created provides better transcript and document navigation and a simplified, robust search. It grants users access to documents in a coherent way, with a model for location and discovery, and showcases the collection — its extent, scope, and importance to world heritage. It is also meant to attract donations for its further development.
 
@@ -124,7 +123,7 @@ I created wireframes with increasing levels of fidelity before building a static
 - **Services:** creative direction, content strategy, information architecture, UX design, UI design, writing
 - **When:** 2015
 
-## 📊 Williams College
+## 📊 User and stakeholder research for Williams College
 
 [Williams College](https://www.williams.edu/) wanted to gather data on a campus building’s energy use and communicate that data in a dynamic and compelling way to the building’s occupants and other people and institutions. But how? Williams invited me to consult on the design process for this yet-to-be-created tool. My goal was to help determine the project audience and recommend potential solutions. Who is interested in this building’s energy use? How might they engage with this information? How could we foster meaningful, interactive experiences?
 
@@ -140,7 +139,7 @@ Throughout the design research process, the team referred to the outcome of the 
 - **Services:** design research, workshop facilitation, user interviews
 - **When:** 2014
 
-## ➕ n+1
+## ➕ Product management and content strategy for n+1
 
 n+1 is an organization with a magazine at its center, from which other projects and publications emerge. At the start, the website sidelined the group’s non-magazine projects and publications, and privileged the non-subscriber by offering over ten years of meticulously crafted content for free.
 
