@@ -50,7 +50,7 @@ $small-text: 0.75rem;
 
 @mixin size-lg {
 	@include at-media($size-md) {
-		font-size: 1.75rem;
+		font-size: 3rem;
 	}
 }
 
